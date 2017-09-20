@@ -12,7 +12,7 @@ AIOT提供OAuth2.0的授权码模式（authorization code），这是功能最�
 
 一、Authorization URI
 
-| URI | [https://aiot-oauth2.aqara.cn/authorize?client\_id=xxx&response\_type=code&redirect\_uri=xxxx&state=xxx&theme=x](/	https://aiot-oauth2.aqara.cn/authorize?client_id=xxx&response_type=code&redirect_uri=xxxx&state=xxx&theme=x) |
+| URI | [https://aiot-oauth2.aqara.cn/authorize?client\_id=xxx&response\_type=code&redirect\_uri=xxxx&state=xxx&theme=x](/    https://aiot-oauth2.aqara.cn/authorize?client_id=xxx&response_type=code&redirect_uri=xxxx&state=xxx&theme=x) |
 | ---: | :--- |
 | **描述** | 用户授权登录界面，获取授权码 |
 | **请求方法** | Get |
