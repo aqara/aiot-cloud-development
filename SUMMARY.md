@@ -7,6 +7,8 @@
   * [开放接口调用规范](open_api_use.md)
 * [账户对接](account_manage.md)
   * [OAuth2.0](account_oauth2.md)
+* [消息推送](xiao-xi-tui-song.md)
+  * [服务器配置](xiao-xi-tui-song/fu-wu-qi-pei-zhi.md)
 * [设备管理](device_manage.md)
   * [设备入网](设备入网.md)
   * [设备解绑](device_unbind.md)
