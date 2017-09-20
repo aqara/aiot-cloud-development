@@ -15,7 +15,7 @@ AIOT开放接口均使用HTTPS协议，需要在header中添加校验信息，�
 * https请求的URL：[https://aiot-rpc-3rd.aqara.cn/open/device/query](https://aiot-rpc-3rd.aqara.cn/open/device/query)
 * header: `{"Appid":"xxx","Appkey":"xxx","Access-Token":"xxx","Openid":"xxx"}`
 * payload: `{"openId":"xxx","did":"xxx"}`
-* response: `{"code":0(errorcode), "result":{"did":"xxx", "model":"xxx", "name":"xxx", "firmwareVersion": "xxx", "state":"xxx", "chipVersion":"xxx", "longitude":"xxx", "latitude":"xxx", ...}`
+* response: `{"code":0(errorcode), "result":{"did":"xxx", "model":"xxx", "name":"xxx", "firmwareVersion": "xxx", "isOnline":"xxx", "chipVersion":"xxx", "longitude":"xxx", "latitude":"xxx", ...}`
 
 其中：
 
@@ -27,7 +27,7 @@ AIOT开放接口均使用HTTPS协议，需要在header中添加校验信息，�
 * errorcode: 错误码（详见错误码文档）
 * model: 设备类型
 * firmwareVersion: 设备固件版本
-* state: 设备在线离线状态
+* isOnline: 设备是否在线
 * chipVersion: 设备芯片版本
 * longitude, latitude: 设备地理位置经纬度
 
