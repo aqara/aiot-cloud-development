@@ -19,7 +19,7 @@
 * [消息推送](xiao-xi-tui-song.md)
   * [服务器配置](xiao-xi-tui-song/fu-wu-qi-pei-zhi.md)
   * [验证服务器](xiao-xi-tui-song/yan-zheng-fu-wu-qi.md)
-  * [推送说明](xiao-xi-tui-song/xiao-xi-tui-song-shuo-ming.md)
+  * [SDK使用说明](xiao-xi-tui-song/xiao-xi-tui-song-shuo-ming.md)
 * [附件](.md)
   * [资源定义](resource_definition.md)
   * [错误码](error_code.md)
