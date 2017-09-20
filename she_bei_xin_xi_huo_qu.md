@@ -8,7 +8,7 @@ AIOT开放API可供第三方应用查询设备基本信息，如
 * chipVersion: 设备芯片版本
 * state: 设备在线离线状态
 
-> 请以AIOT开放平台网站“API访问”页面的信息为准。
+> 详细API定义以AIOT开放平台网站“API访问”页面的信息为准。
 
 | **API** | /open/device/query |
 | ---: | :--- |

@@ -11,7 +11,6 @@
   * [设备入网](设备入网.md)
   * [设备解绑](device_unbind.md)
   * [设备信息获取](she_bei_xin_xi_huo_qu.md)
-  * [设备信息推送](device_info_push.md)
   * [设备属性获取](device_resource_get.md)
   * [设备属性推送](设备属性上报.md)
   * [设备属性控制](设备控制.md)
