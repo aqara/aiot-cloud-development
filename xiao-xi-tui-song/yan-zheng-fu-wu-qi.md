@@ -11,7 +11,7 @@
 }
 ```
 
-我们提供了demo和sdk，开发者可以[下载](https://cnbj2.fds.api.xiaomi.com/lumiaiot/public/message/AIOT%E6%B6%88%E6%81%AF%E6%8E%A8%E9%80%81SDK%E5%8F%8A%E7%A4%BA%E4%BE%8B.zip)供参考。
+我们提供了demo和sdk，开发者可以[下载](https://cnbj2.fds.api.xiaomi.com/lumiaiot/public/message/AIOT消息推送SDK及示例.zip)供参考。
 
 ### 安全模式
 
@@ -28,7 +28,7 @@
 
 1. 将token、timestamp、nonce三个参数进行字典序排序
 2. 将三个参数字符串拼接成一个字符串进行sha1加密
-3. 开发者获得加密后的字符串可与signature对比，标识该请求来源于微信
+3. 开发者获得加密后的字符串可与signature对比，标识该请求来源于AIOT服务器。
 
 
 
