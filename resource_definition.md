@@ -75,7 +75,7 @@
 
 ## 86暗插
 
-**model:lumi.86plug.v1**
+**model:lumi.ctrl\_86plug.v1,lumi.ctrl\_86plug.es1,lumi.ctrl\_86plug.aq1**
 
 | 功能模块 | 资源 | 值类型 | 枚举值 | 最大值 | 最小值 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- |
