@@ -26,5 +26,5 @@ AIOT为云对云提供了非常完善的接口，包括有:
 
 AIOT开放平台（开发中）： [https:\/\/opencloud.aqara.cn\/login](https://opencloud.aqara.cn/login)
 
-当前版本：0.35
+当前版本：0.36
 
