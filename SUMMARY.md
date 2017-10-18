@@ -13,7 +13,6 @@
   * [设备信息获取](she_bei_xin_xi_huo_qu.md)
   * [设备属性获取](device_resource_get.md)
   * [设备属性控制](设备控制.md)
-  * [设备固件升级](设备固件升级.md)
 * [消息推送](xiao-xi-tui-song.md)
   * [服务器配置](xiao-xi-tui-song/fu-wu-qi-pei-zhi.md)
   * [验证服务器](xiao-xi-tui-song/yan-zheng-fu-wu-qi.md)
