@@ -21,4 +21,7 @@
 * [附件](.md)
   * [资源定义](resource_definition.md)
   * [错误码](error_code.md)
+* [附件](fu-jian.md)
+  * [资源定义](fu-jian/zi-yuan-ding-yi.md)
+  * [错误码](fu-jian/cuo-wu-ma.md)
 
