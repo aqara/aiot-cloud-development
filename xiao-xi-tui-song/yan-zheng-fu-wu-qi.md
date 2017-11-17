@@ -11,8 +11,6 @@
 }
 ```
 
-我们提供了demo和sdk，开发者可以[下载](https://cnbj2.fds.api.xiaomi.com/lumiaiot/public/message/AIOT消息推送SDK及示例.zip)供参考。
-
 ### 安全模式
 
 安全模式下，服务器验证变得比较复杂，和微信公众号平台的方法类似。 配置完成后，AIOT服务器将发送GET请求到填写的服务器地址URL上，GET请求携带参数如下所示：
