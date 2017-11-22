@@ -35,8 +35,8 @@ AIOT提供OAuth2.0的授权码模式（authorization code），这是功能最�
 | **描述** | 刷新access\_token |
 | **请求方法** | Post \(x-www-form-urlencoded\) |
 | **发送的数据结构** | client\_id\(第三方应用的 appId\); client\_secret\(第三方应用的 appKey\); grant\_type=refresh\_token; refresh\_token; |
-| 正常返回的数据结构（状态码200） | {"state":"xxx","expires\_in":7200\(access\_token的有效期，单位为秒\),"token\_type":"bearer","refresh\_token":"xxxxx"\(refresh\_token的有效期是30天\),"access\_token":"xxxxx","openId":"xxx"\(用户的openId\)} |
-| 错误返回的数据结构（状态码非200） | {"error\_description": "INVALID refresh\_token", "error": "invalid\_grant"} |
+| **正常返回的数据结构（状态码200）** | {"state":"xxx","expires\_in":7200\(access\_token的有效期，单位为秒\),"token\_type":"bearer","refresh\_token":"xxxxx"\(refresh\_token的有效期是30天\),"access\_token":"xxxxx","openId":"xxx"\(用户的openId\)} |
+| **错误返回的数据结构（状态码非200）** | {"error\_description": "INVALID refresh\_token", "error": "invalid\_grant"} |
 
 > 注意：如果刷新access\_token出现非正常返回的情况，请重试！
 
